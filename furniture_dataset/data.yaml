@@ -1,0 +1,25 @@
+names:
+- Bed
+- Chair
+- Closet
+- Computer
+- Door
+- Monitor
+- Shelf
+- Sofa
+- Table
+- Window
+- Lamp
+- ceiling-fan
+- fork
+- spoon
+- clock
+- fan
+- glass
+- Backpacks
+- plate
+nc: 19
+
+test : /content/drive/MyDrive/LetsPrompt Fiverr Projects/Order 012 - Furniture Detection/Merged_Dataset2/test
+train: /content/drive/MyDrive/LetsPrompt Fiverr Projects/Order 012 - Furniture Detection/Merged_Dataset2/train
+val: /content/drive/MyDrive/LetsPrompt Fiverr Projects/Order 012 - Furniture Detection/Merged_Dataset2/valid
